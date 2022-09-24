@@ -1,0 +1,39 @@
+{
+	"id": "6709b52f-e37f-432e-8bd6-020880663160",
+	"values": [
+		{
+			"key": "Key",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "idBoardNum",
+			"value": "6324ce0a729cef02793205ec",
+			"enabled": true
+		},
+		{
+			"key": "FirstListID",
+			"value": "6324ce0a729cef02793205f4",
+			"enabled": true
+		},
+		{
+			"key": "LastBoardID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "key",
+			"value": "0d57d1a173cccbbd05d41649f4a71a12",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-09-22T15:35:05.046Z",
+	"_postman_exported_using": "Postman/9.31.7"
+}
